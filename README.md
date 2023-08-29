@@ -25,7 +25,7 @@ Region: The geographical region of the user.<br>
 Age: The age of the user.<br>
 Purchased Bike: Binary indicator of whether the user purchased a bike (Yes/No).</p>
 
-<p>Find <a href="https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Dataset</a></p>
+<p>Find <a href="https://www.kaggle.com/datasets/heeraldedhia/bike-buyers/discussion">Dataset</a></p>
 
 <h2>Cleaning and Transformation:</h2>
 <p>First, cleaning and transformation had to be done on Excel. In order to present a workable dataset, I dealt with the following:<br>
