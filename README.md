@@ -34,7 +34,8 @@ Purchased Bike: Binary indicator of whether the user purchased a bike (Yes/No).<
 3. Renamed Column<br>
 The cleaned dataset was also done in Excel for transformation.<br>
 1. Conditional Column for Age Group<br>
-2. Sort column 'Commute Distance' by Changing 10+ Miles to More Than 10 Miles</p>
+2. Income Column Change Type<br>
+3. Sort column 'Commute Distance' by Changing 10+ Miles to More Than 10 Miles</p>
 
 <h2>Visualization:</h2>
 <p>Initially, the focus was on income disparities between male and female bike purchasers versus non-purchasers. Both genders showed higher incomes on average among buyers. Males consistently had slightly higher average incomes than females. Age-wise, middle-aged individuals made the most bike purchases, followed by older and then youth groups. However, considering the age distribution within the overall population was highlighted for better insights.<br>
