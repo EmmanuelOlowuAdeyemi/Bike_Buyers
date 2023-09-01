@@ -44,4 +44,4 @@ Regarding travel distances, bike purchases were highest for 0-1 mile distances, 
 </html>
 <img src="https://github.com/EmmanuelOlowuAdeyemi/Bike_Buyers/blob/main/Bike_Buyers/BIKER%20SALE%20DASHBOARD.png" alt="Biker Sales Dashboard">
 <img src="https://github.com/EmmanuelOlowuAdeyemi/Bike_Buyers/blob/main/Bike_Buyers/BIKER%20SALE%20DASHBOARD%202.png" alt="Biker Sales Dashboard 2">
-<img src="https://github.com/EmmanuelOlowuAdeyemi/Bike_Buyers/blob/main/Bike_Buyers/BIKER%20SALE%20DASHBOARD%203.png" alt="Biker Sales Dashboard 3">
+
